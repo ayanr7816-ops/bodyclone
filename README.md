@@ -1,6 +1,6 @@
 # 🤖 Cyberpunk Body Clone with 3D Pose Visualization
 
-This project uses **OpenCV**, **MediaPipe**, and **Matplotlib** to create a **futuristic dance clone effect** with glowing stick figures and a **real-time 3D pose visualization**.  
+This project uses **OpenCV**, **MediaPipe**, and **Matplotlib** to create a **futuristic body clone effect** with glowing stick figures and a **real-time 3D pose visualization**.  
 
 It captures your movements from the webcam, mirrors them as a **cyberpunk glowing clone**, and also plots your body in **3D space** using MediaPipe's pose landmarks.  
 
